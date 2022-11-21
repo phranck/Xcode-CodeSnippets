@@ -1,5 +1,8 @@
 # Xcode CodeSnippets
 
+![Xcode Snippet View](snipped-view.png)
+
+
 To install these snippets open your terminal and execute:
 
 ```
