@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    func test_&lt;#UnitOfWork#&gt;_&lt;#StateUnderTest#&gt;_&lt;#ExpectedBehavior#&gt;() throws {
-        // IF
+        // GIVEN
         
         // WHEN
         
