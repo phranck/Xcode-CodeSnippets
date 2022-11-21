@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>uivp</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>struct /*@START_MENU_TOKEN@*/ViewName/*@END_MENU_TOKEN@*/: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+struct /*@START_MENU_TOKEN@*/ViewName/*@END_MENU_TOKEN@*/_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/ViewName/*@END_MENU_TOKEN@*/()
+    }
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>7AD2F8D9-3DDC-4DF4-94B2-7A506D000184</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds the struct for a SwiftUI View with its related PreviewPovider</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftUI View with Preview</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

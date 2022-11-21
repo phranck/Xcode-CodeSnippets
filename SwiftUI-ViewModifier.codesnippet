@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>vm</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>public extension View {
+    func &lt;#name#&gt;(&lt;#parameters#&gt;) -&gt; some View {
+        modifier(&lt;#ViewModifierName#&gt;())
+    }
+}
+
+fileprivate struct &lt;#ViewModifierName#&gt;: ViewModifier {
+    public func body(content: Content) -&gt; some View {
+        content
+    }
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>2CF8A966-3851-416D-A22D-4800E711D0AA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Creates an empty view modifier</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ViewModifier</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

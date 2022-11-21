@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>scene</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>struct /*@START_MENU_TOKEN@*/SceneName/*@END_MENU_TOKEN@*/: Scene {
+    var body: some Scene {
+        WindowGroup {
+            EmptyView()
+        }
+    }
+}
+
+
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4A33BE7D-AB59-461A-BEC8-3D347CFFBE8E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds a custom Scene</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftUI: Scene</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
