@@ -28,7 +28,7 @@ fileprivate struct &lt;#ViewModifierName#&gt;: ViewModifier {
 	<key>IDECodeSnippetSummary</key>
 	<string>Creates an empty view modifier</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ViewModifier</string>
+	<string>SwiftUI: ViewModifier</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

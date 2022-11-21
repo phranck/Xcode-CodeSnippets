@@ -28,7 +28,7 @@ struct /*@START_MENU_TOKEN@*/ViewName/*@END_MENU_TOKEN@*/_Previews: PreviewProvi
 	<key>IDECodeSnippetSummary</key>
 	<string>Adds the struct for a SwiftUI View with its related PreviewPovider</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SwiftUI View with Preview</string>
+	<string>SwiftUI: View with Preview</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

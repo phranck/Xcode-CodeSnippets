@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Preprocessor statement for OS specific compilation</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Preprocessor OS Selection</string>
+	<string>Xcode: Preprocessor OS Selection</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

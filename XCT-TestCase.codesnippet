@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    func test_&lt;#TestName#&gt;() throws {
+	<string>    func test_&lt;#UnitOfWork#&gt;_&lt;#StateUnderTest#&gt;_&lt;#ExpectedBehavior#&gt;() throws {
         // IF
         
         // WHEN
@@ -24,7 +24,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Creates an empty Test Function</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Test Case</string>
+	<string>XCT: Test Case</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
