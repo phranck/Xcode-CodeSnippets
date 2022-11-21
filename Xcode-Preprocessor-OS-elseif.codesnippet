@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>os</string>
+	<string>pposelseif</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -14,16 +14,15 @@
 #elseif os(&lt;#OtherOS#&gt;)
 
 #endif
-
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>6240C44D-FEE6-484A-AFFC-07AD09416949</string>
+	<string>FB6143D8-3429-4DCF-B3B8-4191DE417A88</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Preprocessor statement for OS specific compilation</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Xcode: Preprocessor OS Selection</string>
+	<string>Xcode: #if os(..) #elseif</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
